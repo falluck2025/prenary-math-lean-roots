@@ -1,7 +1,7 @@
 # 偏元数学根基 · Lean 4 形式化验证
 ### Prenary Mathematics Foundations · Lean 4 Formal Verification
 
-<!-- DOI 徽章（待 Zenodo 生成后替换） -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21931349.svg)](https://doi.org/10.5281/zenodo.21931349)
 
 ## 概述
 
@@ -27,7 +27,7 @@
 | Challenge Hash | `a52fed3da6d707cb2646afcfe0f65732912ad45ee6cc7c32c7c72c7f447acd51` |
 | 本地 SHA256 | `a52fed3da6d707cb2646afcfe0f65732912ad45ee6cc7c32c7c72c7f447acd51`（双哈希一致）|
 | 验证时间 | 2026-08-14 |
-| DOI | `待替换` |
+| DOI | `10.5281/zenodo.21931349` |
 
 ## 文件说明
 
